@@ -20,4 +20,4 @@ I mainly work with Java, but am also a big fan of TypeScript and Python.
 - 🔭 I’m currently working on [Trino](https://github.com/trinodb/trino).
 - 🌱 I’m currently learning: design patterns, Java concurrency.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chen-ni-2b40491b6/).
-- ⚡ Fun fact: I translated 4 books (3 published: [#1](https://www.ituring.com.cn/book/1964), [#2](https://www.ituring.com.cn/book/2681) and [#3](https://www.epubit.com/bookDetails?id=UB77a9c6dad7934)) from English into Chinese. You can also see some of my translation works [here on GitHub](https://github.com/LCTT/TranslateProject/pulls?q=is%3Apr+author%3Achen-ni+is%3Aclosed).
+- ⚡ Fun fact: I translated 4 books (3 published: [#1](https://www.ituring.com.cn/book/1964), [#2](https://www.ituring.com.cn/book/2681) and [#3](https://www.epubit.com/bookDetails?id=UB77a9c6dad7934)) from English into Chinese. You can also see some of my translation works [here on GitHub](https://github.com/LCTT/TranslateProject/pulls?q=is%3Apr+author%3Achen-ni) (link may not work in GitHub mobile apps).
