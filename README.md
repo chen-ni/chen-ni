@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I mainly work with Java, but is also a big fan of TypeScript.
+I mainly work with Java, but am also a big fan of TypeScript.
 
 - 🔭 I’m currently working on [Trino](https://github.com/trinodb/trino).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chen-ni-2b40491b6/).
